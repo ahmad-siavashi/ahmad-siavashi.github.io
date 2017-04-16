@@ -1,0 +1,9 @@
+site_name: Ahmad Siavashi's Home Page
+site_description: The Story of My Life
+site_author: Ahmad Siavashi
+theme: material
+
+pages:
+- Home: 'index.md'
+- Resume: 'resume.md'
+- Contact me: 'contact_me.md'
