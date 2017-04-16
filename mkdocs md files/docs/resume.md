@@ -46,11 +46,13 @@
 	-	2007 - 2011
 
 ## Skills & Expertise
-- Python
+- Python __2__ & 3
 	- Flask
     - Django
     - SQLAlchemy
 - C
+    - C89
+    - C99
 - C++
     - C++98
     - C++03
@@ -73,6 +75,25 @@
 - Web Development
     - HTML[5], CSS[x], JavaScript[x]
     - PHP
+- Database-related
+    - SQL
+    - ORM (Object-relational Mapping)
+    - MySQL
+    - PostgreSQL
+    - SQLServer
+    - SQLite
+- Software Engineering
+    - Agile Development
+        - XP (eXtreme Programming)
+        - Scrum
+        - Pair Programming
+    - Desgin Patterns
+        - GoF (Gang of Four), the 23 classic software design patterns
+        - POSA (Pattern-oriented software architecture)
+    - Version Control
+        - git (Gitlab, Github, Bitbucket, etc)
+    - UML (Class Diagram, etc)
+    - ERD & EERD
 - High Performance Computing
     - Shared Memory CPU Architectures
         - pthreads
