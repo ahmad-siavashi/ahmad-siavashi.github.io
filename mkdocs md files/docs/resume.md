@@ -157,7 +157,16 @@ Development of Exceptional Talents, Ahvaz, Khuzestan, Iran.
 	-	2010, 2009
 
 ## Courses
-- Bachelor’s Degree, Computer Software Engineering, Shiraz University
+- Master’s Degree, Architecture of Computer Systems, Amirkabir University of Technology
+    - Advanced Computer Networks
+    - Computer Aided Design
+    - Distributed Systems
+	- Low Power Digital Circuits Design
+	- Network Security
+	- Reconfigure-able Computer Systems
+	- Fault-Tolerant Computer Systems
+	- Advanced Computer Architecture
+- Bachelor’s Degree, Software Engineering, Shiraz University
 	- GPU Programming
 	- Computer Networks
 	- Wireless Networks
@@ -181,12 +190,3 @@ Development of Exceptional Talents, Ahvaz, Khuzestan, Iran.
 	- Digital Design
 	- Data Structures
 	- Discrete Mathematics
-- Master’s Degree, Computer Hardware Engineering, Amirkabir University of Technology
-    - Advanced Computer Networks
-    - Computer Aided Design
-    - Distributed Systems
-	- Low Power Digital Circuits Design
-	- Network Security
-	- Reconfigure-able Computer Systems
-	- Fault-Tolerant Computer Systems
-	- Advanced Computer Architecture
