@@ -108,13 +108,18 @@
 	- Accelerators (e.g GPU/FPGA Programming)
         - CUDA
         - OpenCL
-        - Verilog
+        - Verilog (Xilinx ISE)
+            - HDL Design Techniques (HW/SW Co-design, CORDIC (Volder's Algorithm), Piplining, ...)
 - Scientific/Documentation Tools
     - Matlab
     - LaTeX
 - Rust
 - Ruby
 - Haskell
+- Simulators
+    - HSPICE
+    - GPGPU-Sim
+    - ISim
 
 ## Languages
 - English
