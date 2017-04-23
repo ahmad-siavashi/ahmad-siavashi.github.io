@@ -10,7 +10,7 @@
 	-	Principles of Programming, Dr. Ali Hamze, Spring 2015
 	-	Digital Design, Dr. Farshad Khunjush, Fall 2014
 	-	Advanced Programming, Dr. Ali Hamze, Fall 2013
-	-	Principles of Programming, Hooman Tahayori, Spring 2013
+	-	Principles of Programming, Dr. Hooman Tahayori, Spring 2013
 	-	Principles of Programming, Dr. Ali Hamze, Fall 2012
 -	Member of Computer Department Science Forum at Shiraz University
 	-	2013 - 2014
@@ -72,8 +72,13 @@
 	- ARM
 		- NXP LPC1768 Cortex-M3
 		- ARM, Thumb, Thumb2
+- Operating Systems
+    - Internals
+    - System Programming
+    - etc.
+- Reverse Engineering
 - Web Development
-    - HTML[5], CSS[x], JavaScript[x]
+    - HTML[x], CSS[x], JavaScript[x]
     - PHP
 - Database-related
     - SQL
@@ -89,7 +94,7 @@
         - Pair Programming
     - Desgin Patterns
         - GoF (Gang of Four), the 23 classic software design patterns
-        - POSA (Pattern-oriented software architecture)
+        - POSA (Pattern-oriented Software Architecture)
     - Version Control
         - git (Gitlab, Github, Bitbucket, etc)
     - UML (Class Diagram, etc)
@@ -123,7 +128,7 @@
 
 ## Projects
 
-To see the list of projects done, please refer to this [link](/projects.md "Projects").
+To see some of my old projects that I have shared, please refer to this [link](https://github.com/ahmad-siavashi/ "Projects").
 
 ## Honors and Awards
 - Honorary Speaker at Islamic Azad University of Kazeroon, Fars, Iran.
